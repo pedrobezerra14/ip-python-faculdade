@@ -4,8 +4,8 @@
 # velocidade média esperada para a
 # viagem.
 
-distancia = float(input('Informe a distância que irá percorrer: '))
-velocidade_media = float(input('Informe a velocidade média para a viagem: '))
+distancia = float(input('Informe a distância que irá percorrer(km): '))
+velocidade_media = float(input('Informe a velocidade média para a viagem(km/h): '))
 
 tempo = distancia / velocidade_media
 
