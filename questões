@@ -1,0 +1,35 @@
+3. Faça um programa que solicite o
+preço de uma mercadoria e o
+percentual de desconto. Exiba o valor
+do desconto e o preço a pagar.
+
+4. Escreva um programa que calcule o
+tempo de uma viagem de carro.
+Pergunte a distância a percorrer e a
+velocidade média esperada para a
+viagem.
+
+1. Faça um programa que peça dois números inteiros. Imprima a soma
+desses dois números na tela.
+2. Escreva um programa que leia um valor em metros e o exiba convertido
+em milímetros.
+3. Escreva um programa que calcule um aumento de 15% para um salário
+de R$ 750.
+4. Elabore um programa que realize a conversão do valor em dólares para
+real. (Considere a cotação: 1 dólar americano = 4,96 reais)
+5. Escreva um programa que converta uma temperatura digitada em oC em
+oF. A fórmula para essa conversão é:
+F = 9 x C / 5 + 32
+
+6. Elabore um programa que solicite o ano em que você nasceu. Crie uma
+mensagem que inclua o ano e informe quantos anos você tem
+atualmente.
+7. Faça um programa que calcule o volume de um cilindro, dado pela
+fórmula V = π. r2. h. Solicite ao usuário o raio da base e a altura do
+cilindro.
+8. Escreva um programa que calcule o faturamento de um representante
+comercial que recebe R$ 500,00 fixos e 6% de comissão sobre as vendas
+do mês. Considere que ele fechou o mês com um valor de R$ 12.398,00
+em vendas. Exiba o resultado com duas casas decimais.
+9. Escreva um programa que leia a quantidade de dias, horas, minutos e
+segundos do usuário. Calcule o total em segundos.
